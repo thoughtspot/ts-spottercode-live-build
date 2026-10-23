@@ -1,4 +1,4 @@
-# ThoughtSpot: Zero To Embed
+# ThoughtSpot: SpotterCode Live Build
 
 A sample Next.js app for following along with ThoughtSpot's webinar, "Build AI Analytics into Your App in 30 Minutes with Claude Code." The app is a deliberately bare shell. You use a coding agent, with ThoughtSpot's SpotterCode connected, to embed ThoughtSpot into it.
 
