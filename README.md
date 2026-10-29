@@ -8,6 +8,14 @@ A sample Next.js app for following along with ThoughtSpot's webinar, "Build AI A
 * [SpotterCode Documentation](https://developers.thoughtspot.com/docs/SpotterCode?utm_source=speaker&utm_medium=event&utm_campaign=sm_livebuild1029)
 * [Add SpotterCode to your IDE](https://developers.thoughtspot.com/docs/integrate-SpotterCode?utm_source=speaker&utm_medium=event&utm_campaign=sm_livebuild1029)
 
+## Hands-On Lab
+
+**Keep building.** You just watched us build it live. Now build your own.
+
+In this 60-minute lab, Bill Back, Senior Principal Technical Architect at ThoughtSpot, walks you through building an intelligent app from scratch: a Liveboard list, a Liveboard and Spotter, all embedded with the Visual Embed SDK and REST APIs. You'll also get to know SpotterModel, SpotterViz and SpotterCode. You'll leave with working code, and no ThoughtSpot experience is required.
+
+[Reserve your spot](https://www.thoughtspot.com/webinar-ai-analytics-hands-on-lab)
+
 ## What's in the shell
 
 | Route | Description |
