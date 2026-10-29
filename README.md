@@ -2,6 +2,12 @@
 
 A sample Next.js app for following along with ThoughtSpot's webinar, "Build AI Analytics into Your App in 30 Minutes with Claude Code." The app is a deliberately bare shell. You use a coding agent, with ThoughtSpot's SpotterCode connected, to embed ThoughtSpot into it.
 
+## Links and resources
+
+* [ThoughtSpot Free Trial](https://www.thoughtspot.com/trial?tsref=webtopnav&utm_source=sequel&utm_medium=webinar&utm_campaign=sm_livebuild1029)
+* [SpotterCode Documentation](https://developers.thoughtspot.com/docs/SpotterCode?utm_source=speaker&utm_medium=event&utm_campaign=sm_livebuild1029)
+* [Add SpotterCode to your IDE](https://developers.thoughtspot.com/docs/integrate-SpotterCode?utm_source=speaker&utm_medium=event&utm_campaign=sm_livebuild1029)
+
 ## What's in the shell
 
 | Route | Description |
