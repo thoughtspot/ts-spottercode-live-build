@@ -12,7 +12,14 @@ A sample Next.js app for following along with ThoughtSpot's webinar, "Build AI A
 
 **Keep building.** You just watched us build it live. Now build your own.
 
-In this 60-minute lab, Bill Back, Senior Principal Technical Architect at ThoughtSpot, walks you through building an intelligent app from scratch: a Liveboard list, a Liveboard and Spotter, all embedded with the Visual Embed SDK and REST APIs. You'll also get to know SpotterModel, SpotterViz and SpotterCode. You'll leave with working code, and no ThoughtSpot experience is required.
+In this 60-minute hands-on lab, Bill Back, Senior Principal Technical Architect at ThoughtSpot, helps you build an AI-powered app from scratch: a dashboard and an AI analyst, embedded with the Visual Embed SDK and REST APIs. AI agents do the heavy lifting:
+
+
+* **SpotterModel** builds your data model from a plain-English description.
+* **SpotterViz** builds and styles a dashboard from a single request.
+* **SpotterCode** writes the embed code inside your coding agent.
+
+You'll leave with working code, and no ThoughtSpot experience is required.
 
 [Reserve your spot](https://www.thoughtspot.com/webinar-ai-analytics-hands-on-lab)
 
